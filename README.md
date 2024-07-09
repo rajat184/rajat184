@@ -18,7 +18,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rajat184&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 80%; height: auto;">
   </div>
   <div style="grid-column: span 2; text-align: center;">
-    <img src="https://ghchart.rshah.org/rajat184" alt="GitHub Contributions" style="width: 80%; height: auto;">
+    <img src="https://ghchart.rshah.org/rajat184" alt="GitHub Contributions" style="width: 100%; height: 100%;">
   </div>
 </div>
 
