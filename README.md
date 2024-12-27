@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ Undergraduate Student Researcher @ ReganLab, Research Lab, IIIT Delhi<br>👨‍🎓 Doing my Undergraduate Degree @ IIITD <br>🤝 Open to connecting with fellow developers & researchers and learning something new.
+⭐ Undergraduate Student Researcher @ RegganLab, Research Lab, IIIT Delhi<br>👨‍🎓 Doing my Undergraduate Degree @ IIITD <br>🤝 Open to connecting with fellow developers & researchers and learning something new.
 
 
 ## 🌐 Socials:
